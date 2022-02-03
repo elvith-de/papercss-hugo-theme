@@ -1,12 +1,10 @@
 # PaperCSS
 
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3e3a0d5d-854f-45f2-9e30-e8a86907956a/deploy-status)](https://app.netlify.com/sites/papercss-hugo-theme/deploys)
-
-A Hugo theme made with PaperCSS, the less formal CSS framework.
+My fork of PaperCSS - A Hugo theme made with PaperCSS, the less formal CSS framework.
 
 ## Table of contents
 
+. [Changelog](#changelog)
 - [Demo](#demo)
 - [Minimum Hugo version](#minimum-hugo-version)
 - [Installation](#installation)
@@ -19,6 +17,10 @@ A Hugo theme made with PaperCSS, the less formal CSS framework.
 - [Disable summary for a blog post](#disable-summary-for-a-blog-post)
 - [Getting help](#getting-help)
 - [Credits](#credits)
+
+## Changelog
+
+- 2022-02-03 - Theme uses local hosted fonts now (for GDPR compliance, see https://www.golem.de/news/landgericht-muenchen-einbindung-von-google-fonts-ist-rechtswidrig-2202-162826.html)
 
 ## Demo
 
