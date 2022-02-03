@@ -4,7 +4,7 @@ My fork of PaperCSS - A Hugo theme made with PaperCSS, the less formal CSS frame
 
 ## Table of contents
 
-. [Changelog](#changelog)
+- [Changelog](#changelog)
 - [Demo](#demo)
 - [Minimum Hugo version](#minimum-hugo-version)
 - [Installation](#installation)
