@@ -22,10 +22,6 @@ My fork of PaperCSS - A Hugo theme made with PaperCSS, the less formal CSS frame
 
 - 2022-02-03 - Theme uses local hosted fonts now (for GDPR compliance, see https://www.golem.de/news/landgericht-muenchen-einbindung-von-google-fonts-ist-rechtswidrig-2202-162826.html)
 
-## Demo
-
-https://papercss-hugo-theme.netlify.com/
-
 ## Minimum Hugo version
 
 Hugo version `0.81.0` or higher is required. View the [Hugo releases](https://github.com/gohugoio/hugo/releases) and download the binary for your OS.
@@ -35,7 +31,7 @@ Hugo version `0.81.0` or higher is required. View the [Hugo releases](https://gi
 From the root of your site:
 
 ```
-git submodule add https://github.com/zwbetz-gh/papercss-hugo-theme.git themes/papercss-hugo-theme
+git submodule add https://github.com/elvith-de/papercss-hugo-theme.git themes/papercss-hugo-theme
 ```
 
 ## Updating
