@@ -1,12 +1,10 @@
 # PaperCSS
 
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3e3a0d5d-854f-45f2-9e30-e8a86907956a/deploy-status)](https://app.netlify.com/sites/papercss-hugo-theme/deploys)
-
-A Hugo theme made with PaperCSS, the less formal CSS framework.
+My fork of PaperCSS - A Hugo theme made with PaperCSS, the less formal CSS framework.
 
 ## Table of contents
 
+- [Changelog](#changelog)
 - [Demo](#demo)
 - [Minimum Hugo version](#minimum-hugo-version)
 - [Installation](#installation)
@@ -18,11 +16,11 @@ A Hugo theme made with PaperCSS, the less formal CSS framework.
 - [Disable toc for a blog post](#disable-toc-for-a-blog-post)
 - [Disable summary for a blog post](#disable-summary-for-a-blog-post)
 - [Getting help](#getting-help)
-- [Credits](#credits)
+- [Credits / Licenses](#credits--licenses)
 
-## Demo
+## Changelog
 
-https://papercss-hugo-theme.netlify.com/
+- 2022-02-03 - Theme uses local hosted fonts now (for GDPR compliance, see https://www.golem.de/news/landgericht-muenchen-einbindung-von-google-fonts-ist-rechtswidrig-2202-162826.html)
 
 ## Minimum Hugo version
 
@@ -33,7 +31,7 @@ Hugo version `0.81.0` or higher is required. View the [Hugo releases](https://gi
 From the root of your site:
 
 ```
-git submodule add https://github.com/zwbetz-gh/papercss-hugo-theme.git themes/papercss-hugo-theme
+git submodule add https://github.com/elvith-de/papercss-hugo-theme.git themes/papercss-hugo-theme
 ```
 
 ## Updating
@@ -90,6 +88,12 @@ show_summary: false
 
 If you run into an issue that isn't answered by this documentation or the [`exampleSite`](https://github.com/zwbetz-gh/papercss-hugo-theme/tree/master/exampleSite), then visit the [Hugo forum](https://discourse.gohugo.io/). The folks there are helpful and friendly. **Before** asking your question, be sure to read the [requesting help guidelines](https://discourse.gohugo.io/t/requesting-help/9132).
 
-## Credits
+## Credits / Licenses
 
 Thank you to [Rhyne Vlaservich](https://www.vlaservich.com/) for creating [PaperCSS](https://www.getpapercss.com/), and all the  [contributors](https://github.com/papercss/papercss/graphs/contributors).
+
+PatrickHandSC-Regular.ttf: Copyright (c) 2010-2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)    
+[SIL Open Font License, 1.1](http://scripts.sil.org/OFL)
+
+Neucha.ttf Copyright (c) 2005-2010 by Jovanny Lemonad (lemonad@jovanny.ru). All rights reserved.    
+[SIL Open Font License, 1.1](http://scripts.sil.org/OFL)
